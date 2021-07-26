@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "-lunr",
+    "-search",
+    "chapter-fold",
+    "lightbox",
+    "search-pro",
+    "pageview-count"
+  ],
+  "pluginsConfig": {
+    "chapter-fold": {}
+  }
+}
