@@ -3,12 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="119cdb3e-e1f1-4ffc-b365-be714a51f1da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/doc/container/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/doc/container/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/doc/design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/doc/design/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/doc/design/status_machine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/doc/design/status_machine.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/search_plus_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_plus_index.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,13 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="gitbook build" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="/usr/local/bin/gitbook" />
+      <option name="SCRIPT_OPTIONS" value="build" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="server start" type="ShConfigurationType">
       <option name="SCRIPT_PATH" value="/usr/local/bin/gitbook" />
       <option name="SCRIPT_OPTIONS" value="serve" />
@@ -72,6 +79,7 @@
     </configuration>
     <list>
       <item itemvalue="Shell Script.server start" />
+      <item itemvalue="Shell Script.gitbook build" />
       <item itemvalue="Shell Script.book install" />
     </list>
   </component>
@@ -86,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1627004287460</updated>
       <workItem from="1627004289244" duration="3659000" />
-      <workItem from="1627008602527" duration="9228000" />
+      <workItem from="1627008602527" duration="9889000" />
     </task>
     <servers />
   </component>

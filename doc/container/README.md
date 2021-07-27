@@ -15,7 +15,7 @@
   - [1.4 Map 接口](#title_1_4)
     - [1.4.1 HashMap 和 HashTable 的区别](#title_1_4_1)
     - [1.4.2 HashMap 和 HashSet 的区别](#title_1_4_2)
-    - [1.4.3 HashMap 和 TreeMap 的区别](#title_1_4_5)
+    - [1.4.3 HashMap 和 TreeMap 的区别](#title_1_4_3)
   - [1.5 Collections 工具类](#title_1_5)
     - [1.5.1 排序操作](#title_1_5_1)
     - [1.5.2 查找、替换操作](#title_1_5_2)
