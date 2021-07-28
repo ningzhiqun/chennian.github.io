@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="119cdb3e-e1f1-4ffc-b365-be714a51f1da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/doc/container/arraylist.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/doc/container/arraylist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/doc/container/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/doc/container/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/doc/design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/doc/design/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/doc/design/status_machine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/doc/design/status_machine.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-livereload/plugin.js" beforeDir="false" />
@@ -93,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1627004287460</updated>
       <workItem from="1627004289244" duration="3659000" />
-      <workItem from="1627008602527" duration="11679000" />
+      <workItem from="1627008602527" duration="11953000" />
     </task>
     <servers />
   </component>
