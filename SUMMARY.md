@@ -6,6 +6,8 @@
     * [状态机模式](doc/design/status_machine.md)
 
 * [java 容器](doc/container/README.md)
+    
+    * [ArrayList](doc/container/arraylist.md)
 
 * [消息队列](doc/design/README.md)
 
