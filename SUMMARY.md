@@ -10,6 +10,8 @@
     * [ArrayList](doc/container/arraylist.md)
 
     * [LinkedList](doc/container/linkedlist.md)
+    
+    * [HashMap](doc/container/hashmap.md)
 
 * [消息队列](doc/design/README.md)
 
