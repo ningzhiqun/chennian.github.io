@@ -9,6 +9,8 @@
     
     * [ArrayList](doc/container/arraylist.md)
 
+    * [LinkedList](doc/container/linkedlist.md)
+
 * [消息队列](doc/design/README.md)
 
 * [线程池](doc/design/README.md)
