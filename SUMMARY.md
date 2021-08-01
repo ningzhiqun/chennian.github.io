@@ -13,6 +13,6 @@
     
     * [HashMap](doc/container/hashmap.md)
 
-* [消息队列](doc/design/README.md)
+* [消息队列](doc/messagequeue/README.md)
 
 * [线程池](doc/design/README.md)
