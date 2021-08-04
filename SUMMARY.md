@@ -2,6 +2,8 @@
 ***
 
 * [设计模式](doc/design/README.md)
+    
+    * [24 种设计模式](doc/design/design.md)
 
     * [状态机模式](doc/design/status_machine.md)
 
