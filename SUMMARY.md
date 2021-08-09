@@ -9,6 +9,8 @@
 
 * [java io](doc/io/README.md)
 
+    * [java nio 三大组件 Buffer、Channel 和 Selector](doc/io/niodesc.md)
+
 * [java 容器](doc/container/README.md)
     
     * [ArrayList](doc/container/arraylist.md)
