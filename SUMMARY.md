@@ -21,4 +21,4 @@
 
 * [消息队列](doc/messagequeue/README.md)
 
-* [线程池](doc/design/README.md)
+* [线程池](doc/threadpool/README.md)

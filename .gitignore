@@ -1,4 +1,4 @@
-./_book
+_book
 ./node_modules
-./.idea
+.idea/
 .DS_Store
