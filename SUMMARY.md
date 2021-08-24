@@ -21,4 +21,6 @@
 
 * [消息队列](doc/messagequeue/README.md)
 
+    * [rocketMQ 消息发送流程](doc/messagequeue/rocketmq_1.md)
+
 * [线程池](doc/threadpool/README.md)
