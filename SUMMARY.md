@@ -3,17 +3,19 @@
 
 * [实践](doc/practice/README.md)
 
-* [Java 基础知识点](doc/java/one.md)
-
-    * [基础知识一](doc/java/one.md)
-    
-    * [基础知识二](doc/java/two.md)
-
 * [设计模式](doc/design/README.md)
     
     * [24 种设计模式](doc/design/design.md)
 
     * [状态机模式](doc/design/status_machine.md)
+
+* [Java 基础知识点](doc/java/one.md)
+
+    * [基础知识一](doc/java/one.md)
+    
+    * [基础知识二](doc/java/two.md)
+    
+    * [基础知识三](doc/java/three.md)
 
 * [java io](doc/io/README.md)
 
