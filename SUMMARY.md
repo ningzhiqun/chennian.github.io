@@ -1,7 +1,9 @@
 * [我的](README.md)
 ***
 
-* [实践](doc/practice/README.md)
+* [系统设计思考](doc/practice/README.md)
+
+    * [长连接转短链接](doc/business/longtoshort.md)
 
 * [设计模式](doc/design/README.md)
     
@@ -10,6 +12,8 @@
     * [状态机模式](doc/design/status_machine.md)
 
 * [Java 基础知识点](doc/java/one.md)
+
+    * [知识大纲](doc/java/base.md) 
 
     * [基础知识一](doc/java/one.md)
     
